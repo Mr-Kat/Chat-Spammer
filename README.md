@@ -7,8 +7,7 @@ Usage:
 
 2. Run Spam.exe
 
-3. Provide input parameters 
-  [Delay is set to 0 by default]
+3. Provide input parameters [Delay is set to 0 by default]
 
 4. Click spam
 
